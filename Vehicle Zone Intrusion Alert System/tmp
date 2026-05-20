@@ -1,0 +1,55 @@
+# Vehicle Zone Intrusion Alert System
+
+An AI-powered CCTV surveillance system that detects vehicles entering a restricted zone inside a company premises.
+
+The system continuously monitors CCTV footage and triggers alerts when two or more vehicles enter the predefined danger zone.
+
+---
+
+# Features
+
+- Real-time vehicle detection
+- Restricted zone monitoring
+- Multi-vehicle intrusion detection
+- AI-based object detection
+- Automatic image capture
+- Live camera and video support
+
+---
+
+# Workflow
+
+1. CCTV feed is captured
+2. AI model detects vehicles
+3. Vehicles entering the specified zone are counted
+4. If vehicle count >= 2:
+   - Alert is triggered
+   - Screenshot is captured
+   
+
+---
+
+# Technologies Used
+
+- Python
+- OpenCV
+- YOLO
+- NumPy
+- Telegram Bot API
+
+---
+
+# Run Project
+
+```bash
+python app.py
+```
+
+---
+
+# Use Cases
+
+- Factory surveillance
+- Restricted parking zones
+- Industrial safety monitoring
+- Unauthorized vehicle intrusion detection
