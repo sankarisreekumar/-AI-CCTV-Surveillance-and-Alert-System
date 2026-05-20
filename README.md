@@ -1,4 +1,4 @@
-# -AI-CCTV-Surveillance-and-Alert-System
+
 # AI CCTV Surveillance and Alert System
 
 An AI-powered CCTV surveillance system developed for industrial and company security applications using Computer Vision and Python.
